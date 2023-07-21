@@ -1,11 +1,9 @@
 ---
-layout post
-title Test de moi
+layou: post
+title: Test de moi
 subtitle: un petit test pour voir
 published: true
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a tellus ac ex interdum dignissim. Sed gravida volutpat tempor. Proin vel turpis sem. Curabitur id hendrerit lectus. Aliquam cursus non augue sed laoreet. Nam ac lorem nisl. Suspendisse tempus sem sapien, pellentesque congue neque luctus et. Integer non mi ac felis mollis pellentesque sit amet in arcu. Nam pharetra dui eget ornare maximus.
 
 Donec dignissim, nisl sed viverra aliquam, diam eros imperdiet nibh, at ultricies erat tortor vel elit. In pulvinar mi iaculis placerat mollis. Aenean sit amet convallis nibh, non scelerisque est. Maecenas porta a eros quis sodales. In consequat, neque eu suscipit rutrum, metus neque efficitur tellus, quis dapibus leo orci ut ante. Etiam fringilla augue elit, at faucibus nisl consectetur eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed a vehicula augue, vel mollis diam. Aliquam orci est, ornare faucibus felis vitae, euismod efficitur neque. Ut ac velit quis tortor vehicula dictum sit amet ac sapien. Nulla rhoncus, elit eu pellentesque scelerisque, dui sapien lobortis tortor, id congue neque libero efficitur eros. Sed felis nulla, maximus vitae sodales eu, consequat vel urna. Donec viverra massa eu mauris consectetur ultrices ac id dui. Aenean suscipit finibus ipsum, a mollis dolor lobortis non. Cras at ipsum sit amet nisi lacinia elementum quis consectetur magna.
